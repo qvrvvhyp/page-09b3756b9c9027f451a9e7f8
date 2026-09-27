@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.couobzh.cn/sitemap.xml
